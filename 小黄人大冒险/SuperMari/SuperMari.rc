@@ -1,0 +1,119 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_WALL                BITMAP                  "res\\brock.bmp"
+
+IDB_TITLE               BITMAP                  "res\\syobon3.bmp"
+
+IDB_SENCE               BITMAP                  "res\\deck.bmp"
+
+IDB_PLAYER              BITMAP                  "res\\player.bmp"
+
+IDB_MONSTER             BITMAP                  "res\\monster.bmp"
+
+IDB_COIN                BITMAP                  "res\\coins.bmp"
+
+IDB_DIE                 BITMAP                  "res\\die.bmp"
+
+IDB_GAMEOVER            BITMAP                  "res\\gameOver.bmp"
+
+IDB_BITMAP1             BITMAP                  "res\\begin.bmp"
+
+IDB_BITMAP4             BITMAP                  "res\\bitmap4.bmp"
+
+IDB_BITMAP2             BITMAP                  "res\\bitmap2.bmp"
+
+IDB_BITMAP3             BITMAP                  "res\\bitmap3.bmp"
+
+IDB_BITMAP5             BITMAP                  "res\\bitmap5.bmp"
+
+IDB_BITMAP6             BITMAP                  "res\\bitmap6.bmp"
+
+IDB_BITMAP7             BITMAP                  "res\\bitmap7.bmp"
+
+IDB_BITMAP8             BITMAP                  "res\\bitmap8.bmp"
+
+IDB_BITMAP9             BITMAP                  "res\\bitmap9.bmp"
+
+IDB_BITMAP10            BITMAP                  "res\\bitmap10.bmp"
+
+IDB_BITMAP11            BITMAP                  "res\\life.bmp"
+
+IDB_BITMAP12            BITMAP                  "res\\protect.bmp"
+
+IDB_BITMAP13            BITMAP                  "res\\player_yellow.bmp"
+
+IDB_BITMAP14            BITMAP                  "res\\bullet.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "res\\yellow.ico"
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

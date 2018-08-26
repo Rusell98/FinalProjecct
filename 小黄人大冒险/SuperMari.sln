@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SuperMari", "SuperMari\SuperMari.vcxproj", "{D8D1C407-BE69-4CF2-B7BF-E74E6FD68CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8D1C407-BE69-4CF2-B7BF-E74E6FD68CF5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8D1C407-BE69-4CF2-B7BF-E74E6FD68CF5}.Debug|Win32.Build.0 = Debug|Win32
+		{D8D1C407-BE69-4CF2-B7BF-E74E6FD68CF5}.Release|Win32.ActiveCfg = Release|Win32
+		{D8D1C407-BE69-4CF2-B7BF-E74E6FD68CF5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79F1B779-CF85-4CC0-8FA9-11B9E840C87C}
+	EndGlobalSection
+EndGlobal
